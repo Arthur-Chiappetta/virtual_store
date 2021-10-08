@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370062942607",
+    "project_id": "lojaflutter-abea9",
+    "storage_bucket": "lojaflutter-abea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370062942607:android:fdae5932dadb99765debfa",
+        "android_client_info": {
+          "package_name": "br.com.chiappetta.lojavirtual.virtual_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370062942607-6tupo3vki7mhk467d9j4dpe47bfki2b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_wjI_0-gg0Mlj1P2L7UT9ruAl1AO11Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370062942607-6tupo3vki7mhk467d9j4dpe47bfki2b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
